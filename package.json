@@ -1,6 +1,6 @@
 {
   "name": "sizedbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component for react-native app that add vertical or horizontal space on your screen, similar to Flutter's SizedBox widget!",
   "main": "index.js",
   "scripts": {
