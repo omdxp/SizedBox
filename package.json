@@ -1,0 +1,32 @@
+{
+  "name": "sizedbox",
+  "version": "1.0.0",
+  "description": "A component for react-native app that add vertical or horizontal space on your screen, similar to Flutter's SizedBox widget!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Omar-Belghaouti/SizedBox.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "mobile",
+    "ios",
+    "android",
+    "windows",
+    "ui",
+    "sizedbox"
+  ],
+  "author": "Omar Belghaouti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Omar-Belghaouti/SizedBox/issues"
+  },
+  "homepage": "https://github.com/Omar-Belghaouti/SizedBox#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.64.0"
+  }
+}
